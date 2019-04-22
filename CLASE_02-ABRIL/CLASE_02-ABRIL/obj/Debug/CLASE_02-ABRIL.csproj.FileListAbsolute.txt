@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE_02-ABRIL\CLASE_02-ABRIL\bin\Debug\CLASE_02-ABRIL.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE_02-ABRIL\CLASE_02-ABRIL\bin\Debug\CLASE_02-ABRIL.exe
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE_02-ABRIL\CLASE_02-ABRIL\bin\Debug\CLASE_02-ABRIL.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE_02-ABRIL\CLASE_02-ABRIL\obj\Debug\CLASE_02_ABRIL.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE_02-ABRIL\CLASE_02-ABRIL\obj\Debug\CLASE_02_ABRIL.Form2.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE_02-ABRIL\CLASE_02-ABRIL\obj\Debug\CLASE_02_ABRIL.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE_02-ABRIL\CLASE_02-ABRIL\obj\Debug\CLASE_02-ABRIL.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE_02-ABRIL\CLASE_02-ABRIL\obj\Debug\CLASE_02-ABRIL.exe
+c:\users\lab3\documents\visual studio 2013\Projects\CLASE_02-ABRIL\CLASE_02-ABRIL\obj\Debug\CLASE_02-ABRIL.pdb
